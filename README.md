@@ -1,6 +1,6 @@
 # my_card
 
-In this project, I learned how to use Card, Divider and SizedBox Widget.
+In this project, I have learned how to use Card, Divider and SizedBox Widget.
 
 
 
